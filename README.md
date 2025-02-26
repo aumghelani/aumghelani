@@ -1,4 +1,6 @@
 Hi there, I'm Aum Ghelani! 👋
+
+
 🚀 Cybersecurity & Web Developer | AWS Certified | Ethical Hacker
 💻 Passionate about security, cloud, and automation
 🔍 Exploring penetration testing, big data, and AI-driven diagnostics
