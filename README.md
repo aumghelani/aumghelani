@@ -1,37 +1,48 @@
-Hi there, I'm Aum Ghelani! 👋
+# Hi there, I'm Aum Ghelani! 👋
 
-🚀 About Me
-🔹 Cybersecurity & Web Developer | AWS Certified Solutions Architect
-🔹 Ethical Hacker (CEHv12) | Passionate about Linux, Odoo & Big Data
-🔹 Building CLI Tools, Odoo Modules & Scalable Web Apps
+## 🚀 About Me  
+- **Cybersecurity & Web Developer** | AWS Certified Solutions Architect  
+- **Ethical Hacker (CEHv12)** | Passionate about Linux, Odoo & Big Data  
+- **Building CLI Tools, Odoo Modules & Scalable Web Apps**  
 
-💻 Check out my work:
-🔗 🌟 AI Mechanic
-🔗 🔧 Osdag Fork
+## 🔗 Check out my work  
+[![AI Mechanic](https://img.shields.io/badge/AI%20Mechanic-Website-blue?style=for-the-badge)](https://ai-mechanic.vercel.app/)  
+[![Osdag Fork](https://img.shields.io/badge/Osdag%20Fork-GitHub-black?style=for-the-badge&logo=github)](https://github.com/aumghelani/Osdag)  
 
-🛠️ Tech Stack
-💻 Languages:
-C C++ CSS3 HTML5 Java JavaScript PHP R Python Anaconda Bootstrap Keras NumPy Pandas Plotly TensorFlow TypeScript AWSNetlify Bootstrap jQuery MongoDB MySQL Figma Dribbble Canva Adobe XD
-https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
+---
 
+## 🛠️ Tech Stack  
 
-🌐 Web & Cloud:
+### 💻 Languages  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
+### 🌐 Web & Cloud  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Odoo](https://img.shields.io/badge/Odoo-%23781F1F.svg?style=for-the-badge&logo=odoo&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 
+### 🔐 Security & Tools  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF8000.svg?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?style=for-the-badge&logo=nmap&logoColor=white)  
 
-🔐 Security & Tools:
+---
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aumghelani&show_icons=true&theme=react&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aumghelani&theme=react&hide_border=true)  
 
+---
 
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumghelani)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aumghelani)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aumghelani&show_icons=true&theme=react&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aumghelani&theme=react&hide_border=true"/> </div>
-📫 Connect With Me
-Connect With Me
-- LinkedIn: https://www.linkedin.com/in/aumghelani
-- GitHub: https://github.com/aumghelani
-- Email: aumghelani16@gmail.com
+---
 
-
-🔥 Fun Fact
-⚡ I can hack my way into making the perfect cup of coffee! ☕💻
+## 🔥 Fun Fact  
+I can hack my way into making the perfect cup of coffee! ☕  
