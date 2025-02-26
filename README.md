@@ -11,7 +11,7 @@ Hi there, I'm Aum Ghelani! 👋
 
 🛠️ Tech Stack
 💻 Languages:
-
+C C++ CSS3 HTML5 Java JavaScript PHP R Python Anaconda Bootstrap Keras NumPy Pandas Plotly TensorFlow TypeScript AWSNetlify Bootstrap jQuery MongoDB MySQL Figma Dribbble Canva Adobe XD
 
 
 🌐 Web & Cloud:
