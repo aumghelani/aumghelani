@@ -26,7 +26,10 @@ Hi there, I'm Aum Ghelani! 👋
 📊 GitHub Stats
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aumghelani&show_icons=true&theme=react&hide_border=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aumghelani&theme=react&hide_border=true"/> </div>
 📫 Connect With Me
-
+Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aumghelani
+- GitHub: https://github.com/aumghelani
+- Email: aumghelani16@gmail.com
 
 
 🔥 Fun Fact
