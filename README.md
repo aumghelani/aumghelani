@@ -1,5 +1,4 @@
 # <h1 align="center">Hi there, I'm Aum Ghelani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-, I'm Aum Ghelani! 👋
 
 ## 🚀 About Me  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C6FF&lines=Hey,+I'm+Aum+Ghelani!;Cybersecurity+Enthusiast;AWS+Certified;Full-Stack+Developer;Odoo+Developer;Penetration+Tester)](https://git.io/typing-svg)
