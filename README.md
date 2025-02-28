@@ -8,6 +8,10 @@
 - **Building CLI Tools, Odoo Modules & Scalable Web Apps**  
 
 ## 🔗 Check out my work  
+<a href="https://ai-mechanic.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Mechanic-Website-blue?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 [![AI Mechanic](https://img.shields.io/badge/AI%20Mechanic-Website-blue?style=for-the-badge)](https://ai-mechanic.vercel.app/)  
 [![Osdag Fork](https://img.shields.io/badge/Osdag%20Fork-GitHub-black?style=for-the-badge&logo=github)](https://github.com/aumghelani/Osdag)
 [![Chicken Disease Classification](https://img.shields.io/badge/Chicken%20Disease%20Classification-GitHub-black?style=for-the-badge&logo=github)](https://github.com/aumghelani/Chicken-Disease-Classification)
