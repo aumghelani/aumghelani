@@ -22,6 +22,8 @@
 ---
 
 ## 📊 GitHub Stats  
+![Snake animation](https://github.com/aumghelani/aumghelani/blob/output/github-contribution-grid-snake.svg)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aumghelani&show_icons=true&theme=react&hide_border=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aumghelani&theme=react&hide_border=true)  
 
