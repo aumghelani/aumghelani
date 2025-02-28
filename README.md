@@ -20,6 +20,7 @@
 
 
 ---
+[![GitHub Skyline](https://github.com/aumghelani/aumghelani/raw/main/skyline.gif)](https://skyline.github.com/aumghelani)
 
 ## 📊 GitHub Stats  
 ![Snake animation](https://github.com/aumghelani/aumghelani/blob/output/github-contribution-grid-snake.svg)
