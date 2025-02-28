@@ -1,6 +1,10 @@
 # <h1 align="center">Hi there, I'm Aum Ghelani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🚀 About Me  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&height=50&lines=Cybersecurity+Specialist!;Full-Stack+Developer!;AWS+Certified+Architect!;Penetration+Tester!;Odoo+Developer!">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C6FF&lines=Hey,+I'm+Aum+Ghelani!;Cybersecurity+Enthusiast;AWS+Certified;Full-Stack+Developer;Odoo+Developer;Penetration+Tester)](https://git.io/typing-svg)
 
 - **Cybersecurity & Web Developer** | AWS Certified Solutions Architect  
@@ -31,6 +35,3 @@
 
 ## 🔥 Fun Fact  
 I can hack my way into making the perfect cup of coffee! ☕  
-
-<img src="https://random-memer.herokuapp.com/" width="500">
-
