@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&height=50&lines=Cybersecurity+Specialist!;Full-Stack+Developer!;AWS+Certified+Architect!;Penetration+Tester!;Odoo+Developer!">
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C6FF&lines=Hey,+I'm+Aum+Ghelani!;Cybersecurity+Enthusiast;AWS+Certified;Full-Stack+Developer;Odoo+Developer;Penetration+Tester)](https://git.io/typing-svg)
-
 - **Cybersecurity & Web Developer** | AWS Certified Solutions Architect  
 - **Ethical Hacker (CEHv12)** | Passionate about Linux, Odoo & Big Data  
 - **Building CLI Tools, Odoo Modules & Scalable Web Apps**  
