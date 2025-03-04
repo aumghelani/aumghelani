@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&height=50&lines=Cybersecurity+Specialist!;Full-Stack+Developer!;AWS+Certified+Architect!;Penetration+Tester!;Odoo+Developer!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&height=50&lines=CEHv12 Certified!;Full-Stack+Developer!;AWS+Certified+Architect!;Penetration+Tester!;">
 </p>
 - **Cybersecurity & Web Developer** | AWS Certified Solutions Architect  
 - **Ethical Hacker (CEHv12)** | Passionate about Linux, Odoo & Big Data  
