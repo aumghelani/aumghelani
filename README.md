@@ -1,39 +1,75 @@
-# <h1 align="center">Hi there, I'm Aum Ghelani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-## 🚀 About Me  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C52C&center=true&vCenter=true&width=500&height=50&lines=CEHv12+Certified!;Full-Stack+Developer!;AWS+Certified+Architect!;Penetration+Tester!;">
+<img src="assets/hero.svg" width="100%" alt="Aum Ghelani — Blue Team, DevOps, Full-Stack, AI Security" />
+
+<p>
+  <a href="https://www.linkedin.com/in/aumghelani"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shyam.jgd@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aumghelani&style=for-the-badge&color=a78bfa&label=VIEWS" />
 </p>
-- **Cybersecurity & Web Developer** | AWS Certified Solutions Architect  
-- **Ethical Hacker (CEHv12)** | Passionate about Linux, Odoo & Big Data  
-- **Building CLI Tools, Odoo Modules & Scalable Web Apps**  
 
-## 🔗 Check out my work  
-[![AI Mechanic](https://img.shields.io/badge/AI%20Mechanic-Website-blue?style=for-the-badge)](https://ai-mechanic.vercel.app/)  
-[![Osdag Fork](https://img.shields.io/badge/Osdag%20Fork-GitHub-black?style=for-the-badge&logo=github)](https://github.com/aumghelani/Osdag)
-[![Chicken Disease Classification](https://img.shields.io/badge/Chicken%20Disease%20Classification-GitHub-black?style=for-the-badge&logo=github)](https://github.com/aumghelani/Chicken-Disease-Classification)
+</div>
 
+> **Cybersecurity engineer at Boston University.**
+> Blue Team practitioner, DevOps and full-stack developer with a growing focus on AI security. CEH v12 and AWS Certified Solutions Architect. I like systems-level C, network transport, and tools that explain what they find.
 
----
+### 📈 Contribution activity
 
-## 🛠️ Tech Stack  
-
-
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  ![Odoo](https://img.shields.io/badge/Odoo-%23781F1F.svg?style=for-the-badge&logo=odoo&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%230557a5.svg?style=for-the-badge&logo=kalilinux&logoColor=white) [![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
-  ![CEH Certified](https://img.shields.io/badge/CEH%20Certified-%23A100FF.svg?style=for-the-badge&logo=ceh&logoColor=white) ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-%23D32F2F.svg?style=for-the-badge&logo=security&logoColor=white)   ![Metasploit](https://img.shields.io/badge/Metasploit-%230056b3.svg?style=for-the-badge&logo=metasploit&logoColor=white)   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white)   ![Nmap](https://img.shields.io/badge/Nmap-%230073c6.svg?style=for-the-badge&logo=nmap&logoColor=white)   ![Cloud Security](https://img.shields.io/badge/Cloud_Security-%2300A8E1.svg?style=for-the-badge&logo=cloudsecurity&logoColor=white)   ![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)   ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%2341698C.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
+<div align="center">
+<img src="https://ghchart.rshah.org/6366f1/aumghelani" width="98%" alt="contribution calendar" />
+</div>
 
 ---
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aumghelani)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aumghelani)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+### 🧩 Featured projects
+
+<table>
+<tr>
+<td width="33%"><a href="https://github.com/aumghelani/mrcache"><img src="assets/card-mrcache.svg" alt="mrcache" /></a></td>
+<td width="33%"><a href="https://github.com/aumghelani/srd-lite"><img src="assets/card-srd-lite.svg" alt="srd-lite" /></a></td>
+<td width="33%"><a href="https://github.com/aumghelani/MyEDR"><img src="assets/card-myedr.svg" alt="MyEDR" /></a></td>
+</tr>
+<tr>
+<td width="33%"><a href="https://github.com/aumghelani/security-monitor"><img src="assets/card-security-monitor.svg" alt="security-monitor" /></a></td>
+<td width="33%"><a href="https://github.com/aumghelani/voice-agent-pipeline"><img src="assets/card-voice-agent-pipeline.svg" alt="voice-agent-pipeline" /></a></td>
+<td width="33%"><a href="https://github.com/aumghelani/Streaming-Systems-Holostream"><img src="assets/card-streaming-systems-holostream.svg" alt="HoloStream" /></a></td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Fun Fact  
-I can hack my way into making the perfect cup of coffee! ☕  
+### 🛠️ Tech stack
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-6366f1?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![CEH v12](https://img.shields.io/badge/CEH_v12-8b5cf6?style=for-the-badge)
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aumghelani&show_icons=true&hide_border=true&bg_color=0b0b1e&title_color=a78bfa&icon_color=818cf8&text_color=c7d2fe" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aumghelani&layout=compact&hide_border=true&bg_color=0b0b1e&title_color=a78bfa&text_color=c7d2fe" />
+</div>
+
+<div align="center">
+<sub>Boston, USA · Boston University</sub>
+</div>
