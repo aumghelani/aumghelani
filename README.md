@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Aum Ghelani — Blue Team, DevOps, Full-Stack, AI Security" />
+<img src="assets/hero.svg" width="100%" alt="Aum Ghelani — Cybersecurity, Cloud and DevOps, Full-Stack, AI Security" />
 
 <p>
   <a href="https://www.linkedin.com/in/aumghelani"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 </div>
 
 > **Cybersecurity engineer at Boston University.**
-> Blue Team practitioner, DevOps and full-stack developer with a growing focus on AI security. CEH v12 and AWS Certified Solutions Architect. I like systems-level C, network transport, and tools that explain what they find.
+> Cybersecurity engineer, cloud and DevOps practitioner and full-stack developer with a growing focus on AI security. CEH v12 and AWS Certified Solutions Architect. I like systems-level C, network transport, and tools that explain what they find.
 
 ### 📈 Contribution activity
 
