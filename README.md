@@ -53,7 +53,7 @@
 | Civic Hacks '26 | Winner, 3 categories | [FoodGrid](https://github.com/aumghelani/Foodgrid): food-access equity map for Boston census tracts |
 | Red Hat x NVIDIA vLLM Hackathon, Boston | Winner: Track 5 (Agentic Edge) + Upstream | [PRGenie](https://github.com/aumghelani/PRGenie-Nemoclaw): multi-agent GitHub PR triage on vLLM and Nemotron |
 | ETHGlobal New York 2026 | Winner: Best Use of Tokenization on Hedera | [CashMeIfYouCan](https://github.com/aumghelani/ETHGlobal-Hackathon-Fiduciary-Agent): AI agents bid on freelancer invoices |
-| MedAI Hackathon | Winner | April 2026 |
+| MedAI Hackathon (April 2026) | Winner | Team entry |
 
 ---
 
