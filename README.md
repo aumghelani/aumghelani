@@ -4,6 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/aumghelani"><img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aumghelani/"><img src="https://img.shields.io/badge/LeetCode-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:shyam.jgd@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aumghelani&style=for-the-badge&color=a78bfa&label=VIEWS" />
 </p>
